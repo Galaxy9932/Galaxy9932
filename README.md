@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Soham2003
-- 👀 I’m interested in Computational Astrophysics
+- 👀 I’m interested in Theoretical Physics
 - 🌱 I’m currently learning Physics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mail me
